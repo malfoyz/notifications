@@ -73,7 +73,7 @@ docker compose run --rm app pytest -v
 Тело запроса:
 ```json
 {
-  "refresh_token": "<refresh>"
+  "refresh": "<refresh>"
 }
 ```
 
